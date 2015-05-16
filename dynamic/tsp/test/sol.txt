@@ -1,0 +1,3 @@
+x.txt: 3.50116
+
+TSP solution: 26442.7
